@@ -4,7 +4,7 @@ Repository containing portfolio of data science projects completed by me for sel
 *Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.*
 
 ## Contents
-- ### Data-Cleaning-Airbnb([Notebook]
+- ### Data-Cleaning-Airbnb([Notebook](https://github.com/Affan003/Data-Science-Portfolio/tree/main/Data%20Cleaning%20Airbnb))
 As we know data scientists spend around 80% of their time on cleaning and preparing the data.This Airbnb booking data is quite messy and uncleaned.The data is cleaned and prepared in such a way that it can send to any further operation.
 
 *Tools:pandas,numpy,matplotlib* 
