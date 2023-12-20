@@ -23,7 +23,7 @@ steps-
 *Tools:- seaborn ,matplotlib,missingno ,numpy,warnings,LabelEncoder,RandomForestClassifier*
 
 
-- ### Movie-Recommandation-system ([Notebook ]
+- ### Movie-Recommandation-system ([Notebook ](https://github.com/Affan003/Data-Science-Portfolio/tree/main/Movie%20Recommendation%20System))
 
 This project is intended to cater the entertainment taste of the modern day Sapiens. Movies imdb dateset in which their actor ,dircetor name ,genre plot and regarding imformation is given.
 Movie recommendation system is created by cosine similarity .
