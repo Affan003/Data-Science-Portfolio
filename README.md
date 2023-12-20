@@ -10,7 +10,7 @@ As we know data scientists spend around 80% of their time on cleaning and prepar
 *Tools:pandas,numpy,matplotlib* 
 
 
-- ### Loan-Prediction([Notebook]
+- ### Loan-Prediction([Notebook](https://github.com/Affan003/Data-Science-Portfolio/tree/main/Loan%20Prediction))
 This project contains data about loan applicants as features and their loan status as target variable.The random forrest classifier is used with 80% accuracy.
 steps-
  1. Getting Libraries and data
